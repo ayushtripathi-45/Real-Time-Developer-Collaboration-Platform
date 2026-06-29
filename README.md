@@ -152,6 +152,12 @@ mindmap
 
 ---
 
+## 🌟 Future Vision
+
+<img width="1672" height="941" alt="ChatGPT Image Jun 28, 2026, 01_27_48 PM" src="https://github.com/user-attachments/assets/62c59da9-6555-4b87-97d7-0bdd942a9491" />
+
+---
+
 # 📌 Upcoming Features Checklist
 
 | Status | Feature                        |
@@ -203,12 +209,6 @@ mindmap
 | 🔵 Planned | Multi-language Support     |
 | 🔵 Planned | Activity Timeline          |
 | 🔵 Planned | Version History            |
-
----
-
-## 🌟 Future Vision
-
-<img width="1672" height="941" alt="ChatGPT Image Jun 28, 2026, 01_27_48 PM" src="https://github.com/user-attachments/assets/62c59da9-6555-4b87-97d7-0bdd942a9491" />
 
 ---
 
